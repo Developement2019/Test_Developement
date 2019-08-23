@@ -1,2 +1,2 @@
 # Test_Developement
-Configuratuin for Git
+Configuration for Git
